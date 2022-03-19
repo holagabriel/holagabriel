@@ -5,9 +5,6 @@
 
 <p align="center">Soy <strong>Desarrollador JavaScript Full Stack</strong><br />¡Revisa mi contenido 👇!</p>
 <p align="center">
-   <a href="https://youtube.com/holagabriel" target="blank" style='margin-right:4px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="holagabriel" height="28px" width="28px" />
-  </a>
   <a href="https://instagram.com/hola.gabriel" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="hola.gabriel" height="28px" width="28px" />
   </a>
