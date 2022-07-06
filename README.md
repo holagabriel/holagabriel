@@ -1,5 +1,5 @@
 <p align="center" width="300">
-   <img align="center" width="200" src="https://user-images.githubusercontent.com/93480406/159117964-cbfc2717-476a-4b05-bcf7-0a3a1df46515.png" />
+   <img style="border-radius: 50%;" align="center" width="200" src="https://user-images.githubusercontent.com/93480406/177616880-788bfa61-6542-492b-8197-162660f0fbb5.jpg" />
    <h3 align="center">¡Hey 👋! Soy Gabriel�</h3>
 </p>
 
